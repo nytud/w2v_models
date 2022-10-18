@@ -9,6 +9,8 @@ Model parameters:
 
 Since Hungarian is a highly inflective language and we trained embeddings on raw texts, this is not a pure bag-of-words model, as the abbreviation CBoW would imply. Our choice of input data was based on the presupposition that morphosyntactic information may contribute to the characterization of meanings. Roughly 8,5M word forms were assigned embeddings as the result of our training.
 
+The language model can be downloaded [from here (572MB)](https://nc.nlp.nytud.hu/s/A86cL86izejWAPE).
+
 
 
 Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013a. Efficient Estimation of Word Representations in Vector Space.
